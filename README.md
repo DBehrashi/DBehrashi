@@ -1,8 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
- ![Header](./github-header-image.png)
+![github-header-image](https://user-images.githubusercontent.com/97195571/186016930-ac30164b-12f2-45b4-a098-86d384457df0.png)
+
 
 ### <div align="center"></div>  
   
